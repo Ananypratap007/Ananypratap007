@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anany Pratap Gupta</h1>
-<h3 align="center">Zealous learner about web development technologies</h3>
+<h3 align="center">Doing research in Multiagent Reinforcement Learing, Generative AI and Smart home/Energy optimisation</h3>
 
-- 🌱 I’m currently learning **react, node and mongodb**
+- 🔭 I’m currently working on **time series generation** with **VAEs, GANs & Latent Diffusion Models**, applied to **energy and solar forecasting**.  
+- 🌱 Exploring **reinforcement learning** for decision-making and control problems in Electricity trading.  
+- 💬 We can discuss about **deep generative models, variational autoencoders, diffusion models, reinforcement learning, CUDA programming, and optimization**.  
+- ⚡ Fun fact: **I am a state-level Taekwondo player 🥋**.  
 
-- 💬 Ask me about **DSA, cuda and frontend**
-
-- ⚡ Fun fact **I am a state level taekwondo player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
